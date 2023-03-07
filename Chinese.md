@@ -1,12 +1,12 @@
 <p align="center">
     <h1 align="center">
-        <b>MLS - useing tutorial</b>
+        <b>MLS - 使用教程</b>
     </h1>
 </p>
 
 <p align="center">
     <h1 align="center">
-	    <b1>Hello everyone, </b1>
+	    <b1>大家好, </b1>
 	    <h2 align="center">
 		<b2>
       歡迎使用屬於NRTS的MLS bot，首先，在使用機器人之前，您必須使用命令/anset [channel]設置您想要接收機器人重要信息和更新公告的頻道，我們非常強烈 推薦使用。 
