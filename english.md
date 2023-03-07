@@ -19,5 +19,5 @@ Thank you for using :>
 
 <p align="center"?
    <h1 align="center">
-   	<b1>Commands</b1>
+   	<b>Commands</b1>
    </h1>
