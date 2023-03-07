@@ -16,3 +16,8 @@ Thank you for using :>
 										--NRTS </b2>
     
 </h1>
+
+<p align="center"?
+   <h1 align="center">
+   	<b1>Commands</b1>
+   </h1>
