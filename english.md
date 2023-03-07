@@ -20,5 +20,7 @@ Thank you for using :>
 <p align="center">
    <h1 align="center">
    	<b>Commands</b1>
-	   <b1>34343</b1>
+	<h1 align="center">
+		<b>sdfsdf</b>
+	   </h1>
    </h1>
