@@ -20,5 +20,5 @@ Thank you for using :>
 <p align="center">
    <h1 align="center">
    	<b>Commands</b1>
-	   <b>34343</b>
+	   <b1>34343</b1>
    </h1>
